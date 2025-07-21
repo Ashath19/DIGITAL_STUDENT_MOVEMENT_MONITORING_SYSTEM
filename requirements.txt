@@ -1,0 +1,11 @@
+plotly
+streamlit
+pandas
+numpy
+opencv-python
+mysql.connector
+mysql-connector-python
+google-auth-oauthlib
+google-api-python-client
+opencv-contrib-python
+watchdog
