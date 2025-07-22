@@ -1,4 +1,4 @@
-# Digital Student Movement Monitoring System 🏠📊
+# Digital Student Movement Monitoring System 📊
 
 A comprehensive **Hostel Movement Management System** built with **Streamlit** and **OpenCV** that revolutionizes student attendance tracking and movement monitoring in hostels through advanced facial recognition technology. This system provides role-based dashboards for efficient management of student movements, automated attendance tracking, and real-time monitoring with email notifications.
 
